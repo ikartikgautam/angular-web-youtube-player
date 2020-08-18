@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "youtube-player"
+    }
+  },
+  "defaultProject": "youtube-player",
+  "cli": {
+    "analytics": "5053f3d5-da39-45e5-a8ac-7a7cf5945ee2"
+  }
 }
